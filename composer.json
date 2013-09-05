@@ -1,0 +1,15 @@
+{
+    "name": "chunks/externals",
+    "description": "Externals are isolated classes that need to be included due to their usefulness and lack of a better alternative in the chunks codebase",
+    "license": "Complex",
+    "authors": [
+        {
+            "name": "Carlos Vergara",
+            "email": "cfvergara@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    }
+}
